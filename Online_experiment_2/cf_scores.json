@@ -1,0 +1,20 @@
+{
+    "sportCfScores": {
+      "football": 0.7,
+      "tennis": 0.5,
+      "basketball": 0.006
+    },
+    "tournamentCfScores": {
+      "tournament1": 0.8,
+      "tournament2": 0.7,
+      "tournament3": 0.06
+    },
+    "participantScores": {
+      "team1": 0.8,
+      "team2": 0.7,
+      "team3": 0.06,
+      "team4": 0.002,
+      "team5": 0.0007,
+      "team6": 0.00005
+    }
+  }

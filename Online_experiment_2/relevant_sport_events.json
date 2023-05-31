@@ -1,0 +1,42 @@
+[
+    {
+      "SportMetadata": {
+        "Participants": ["team1", "team2"],
+        "TournamentTemplateId": "tournament1",
+        "ParticipantIds": [1, 2]
+      },
+      "AssetMetadata": {
+        "VimondCategorySportType": "football"
+      },
+      "Name": {
+        "EventName":"Brann - Rosenborg"
+      }
+    },
+    {
+      "SportMetadata": {
+        "Participants": ["team3", "team4"],
+        "TournamentTemplateId": "tournament2",
+        "ParticipantIds": [3, 4]
+      },
+      "AssetMetadata": {
+        "VimondCategorySportType": "basketball"
+      },
+      "Name": {
+        "EventName":"Manchester United - Arsenal"
+      }
+    },
+    {
+      "SportMetadata": {
+        "Participants": ["team5", "team6"],
+        "TournamentTemplateId": "tournament3",
+        "ParticipantIds": [5, 6]
+      },
+      "AssetMetadata": {
+        "VimondCategorySportType": "tennis"
+      },
+      "Name": {
+        "EventName":"Flint - Eik Tonsberg"
+      }
+    }
+  ]
+  
